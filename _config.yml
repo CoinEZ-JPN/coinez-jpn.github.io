@@ -1,14 +1,10 @@
-title: From Bayesian Statistics to Probabilistic Programming
-email: kentaaratani@coinez.jp
-description: >- # this means to ignore newlines until "baseurl:"
-  An introductory piece for the curious that aims to take a look at both
-  Bayesian Statistics and Probabilistic Programming.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://coinez-jpn.github.io"
-twitter_username: jekyllrb
-github_username:  jekyll
+title: "Bayesian Stats and Probabilistic Programming"
+email: "your-email@example.com"
+description: "A journey through Bayesian statistics and probabilistic programming."
+baseurl: "" # Leave this empty if your site is at the root
+url: "https://username.github.io" # Base URL of your site
+theme: minima
+markdown: kramdown
 
-# Build settings
-theme: minima@latest
-plugins:
-  - jekyll-feed
+# Permalink configuration for pages
+permalink: /:title/

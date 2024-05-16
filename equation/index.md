@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Components of a Bayesian Model"
+date: 2024-01-01 00:00:00 +0000
+categories: jekyll update
 ---
 
 First and foremost we have a look at the equation.

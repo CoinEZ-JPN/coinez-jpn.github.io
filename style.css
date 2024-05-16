@@ -1,0 +1,9 @@
+.MathJax_Display, .math-display {
+    margin: 1em 0;
+    text-align: center;  /* Center the block equations */
+    font-size: larger;  /* Make the font larger */
+}
+
+.math-inline {
+    font-weight: bold;  /* Make inline equations bold */
+}

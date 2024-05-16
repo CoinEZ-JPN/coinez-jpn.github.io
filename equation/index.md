@@ -5,6 +5,9 @@ date: 2024-01-01 00:00:00 +0000
 categories: jekyll update
 ---
 
+$ sqrt{3x-1}+(1+x)^2 $
+
+
 First and foremost we have a look at the equation.
 $$
 p(θ|y) = (p(y|θ) * p(θ)) / ∫p(y|θ)p(θ)dθ

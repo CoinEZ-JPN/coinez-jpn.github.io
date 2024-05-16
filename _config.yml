@@ -1,6 +1,6 @@
 title: "Bayesian Stats and Probabilistic Programming"
-email: "your-email@example.com"
-description: "A journey through Bayesian statistics and probabilistic programming."
+email: "kentaaratani@coinez.jp"
+description: "A reflection through my journey of Bayesian statistics and probabilistic programming."
 baseurl: "" # Leave this empty if your site is at the root
 url: "https://username.github.io" # Base URL of your site
 theme: minima
@@ -8,3 +8,9 @@ markdown: kramdown
 
 # Permalink configuration for pages
 permalink: /:title/
+
+usemathjax: true
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax

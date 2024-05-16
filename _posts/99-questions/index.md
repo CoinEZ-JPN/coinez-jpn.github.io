@@ -9,4 +9,4 @@ Here are some of the common questions I personally came across while reviewing t
 1. Is a probability distribution simply the likelihood distribution?
 2. What is the difference between Bayesian stat and likelihood stat?
 3. Prob distribution "over" the parameters means what exactly?
-4. 
+4. Is the recurrent use of frequentist the same as bayesian?
